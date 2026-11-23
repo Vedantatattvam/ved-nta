@@ -1,0 +1,743 @@
+
+
+
+
+अद्वैत मकरन्द - विकिस्रोतः
+(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-not-available skin-thumbsize-clientpref-standard";var cookie=document.cookie.match(/(?:^|; )sawikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["0\t1\t2\t3\t4\t5\t6\t7\t8\t9","०\t१\t२\t३\t४\t५\t६\t७\t८\t९"],"wgDefaultDateFormat":"dmy","wgMonthNames":["","जनवरी","फेब्रवरी","मार्च्","एप्रिल्","मे","जून्","जुलै","आगस्ट्","सेप्टेम्बर्","अक्टोबर्","नवेम्बर्","डिसेम्बर्"],"wgRequestId":"5e7d9bc5-1443-4866-b19b-e6cfcc21bf77","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"अद्वैत_मकरन्द","wgTitle":"अद्वैत मकरन्द","wgCurRevisionId":399504,"wgRevisionId":399504,"wgArticleId":161792,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["अद्वैतम्"],"wgPageViewLanguage":"sa","wgPageContentLanguage":"sa","wgPageContentModel":"wikitext","wgRelevantPageName":"अद्वैत_मकरन्द","wgRelevantArticleId":161792,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgConfirmEditCaptchaNeededForGenericEdit":"hcaptcha","wgConfirmEditForceShowCaptcha":false,"wgConfirmEditHCaptchaSiteKey":"5d0c670e-a5f4-4258-ad16-1f42792c9c62","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgMediaViewerMobileBeta":false,"wgVisualEditor":{"pageLanguageCode":"sa","pageLanguageDir":"ltr","pageVariantFallbacks":"sa"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":7000,"prpProofreadPageBookNamespaces":[0],"wgTestKitchenUserExperiments":{"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[]},"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgULSLanguageSelectorV2Enabled":true,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgSiteNoticeId":"2.0"};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.dismissableSiteNotice.styles":"ready"};RLPAGEMODULES=["ext.wikisource.download","site","mediawiki.page.ready","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.charinsert","ext.gadget.refToolbar","ext.urlShortener.toolbar","ext.centralauth.centralautologin","ext.testKitchen","ext.wikimediaCustomizations.donorAccountCreation","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.dismissableSiteNotice"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+सामग्री पर जाएँ
+
+	
+		
+			
+				
+
+	
+	
+
+मुख्य मेन्यू
+	
+	
+
+
+				
+		
+
+	
+	मुख्य मेन्यू
+	साइडबार पर ले जाएँ
+	छिपाएँ
+
+
+	
+
+	
+		सञ्चरणम्
+	
+	
+		
+		
+			
+			मुख्यपृष्ठम्समुदायद्वारम्वर्तमानकार्यविशेषाःसद्यपरिवर्तनानियादृच्छिकपुटम्साहाय्यम्
+		
+		
+	
+
+
+	
+
+
+				
+
+	
+
+
+		
+			
+
+	
+	
+		
+	
+
+
+		
+		
+			
+
+	
+
+शोधः
+	
+	
+		
+			
+				
+					
+						
+						
+					
+					
+				
+				अन्विष्यताम्
+			
+		
+	
+
+
+			
+	
+	
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+	
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+	
+		
+
+	
+	
+
+दिखावट
+	
+	
+
+
+			
+				
+			
+		
+	
+
+
+	
+	
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+	
+
+	
+		
+		
+			दानम्
+
+सदस्यता प्राप्यताम्
+
+प्रविश्यताम्
+
+
+			
+		
+		
+	
+
+
+	
+	
+
+	
+	
+
+वैयक्तिकोपकरणानि
+	
+	
+
+
+		
+
+	
+		
+		
+			
+
+दानम्
+
+
+
+सदस्यता प्राप्यताम्
+
+
+
+प्रविश्यताम्
+
+
+			
+		
+		
+	
+
+
+	
+	
+
+
+
+
+		
+	
+
+
+	
+		
+			(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca tabindex=\"0\" role=\"button\"\u003Eअपनीयताम्\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003C!-- CentralNotice --\u003E\u003Cdiv id=\"localNotice\" data-nosnippet=\"\"\u003E\u003Cdiv class=\"sitenotice\" lang=\"sa\" dir=\"ltr\"\u003E\u003Ctable align=\"Center\" style=\"Background-Color:#f1f5fc; Border: 2px Solid #abd5f5;\"\u003E\n\n\u003Ctbody\u003E\u003Ctr\u003E\n\u003Ctd\u003E\n\u003C/td\u003E\u003C/tr\u003E\n\u003Ctr align=\"Center\"\u003E\n\u003Ctd\u003E\u003Cspan typeof=\"mw:File\"\u003E\u003Cspan\u003E\u003Cimg alt=\"सहाय्यम्\" src=\"//thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Gnome-help.svg/20px-Gnome-help.svg.png?utm_source=sa.wikisource.org\u0026amp;utm_campaign=parser\u0026amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"//thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Gnome-help.svg/40px-Gnome-help.svg.png?utm_source=sa.wikisource.org\u0026amp;utm_campaign=parser\u0026amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\" /\u003E\u003C/span\u003E\u003C/span\u003E  \u003Cb\u003E\u003Ca href=\"https://sa.wikipedia.org/wiki/%E0%A4%B8%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A5%8D:%E0%A4%A6%E0%A5%87%E0%A4%B5%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A4%B0%E0%A5%80%E0%A4%B2%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A4%BE_%E0%A4%95%E0%A4%A5%E0%A4%82_%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%A8%E0%A5%80%E0%A4%AF%E0%A4%AE%E0%A5%8D%3F\" class=\"extiw\" title=\"w:सहाय्यम्:देवनागरीलिप्या कथं लेखनीयम्?\"\u003Eदेवनागरीलिप्या लेखनार्थं साहाय्यम्\u003C/a\u003E\u003C/b\u003E \u0026#160;\n\u003C/td\u003E\n\u003Ctd\u003E\u003Cspan typeof=\"mw:File\"\u003E\u003Cspan\u003E\u003Cimg alt=\"सहाय्यम्\" src=\"//thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/20px-Information_icon.svg.png?utm_source=sa.wikisource.org\u0026amp;utm_campaign=parser\u0026amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"//thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/40px-Information_icon.svg.png?utm_source=sa.wikisource.org\u0026amp;utm_campaign=parser\u0026amp;utm_content=thumbnail 2x\" data-file-width=\"620\" data-file-height=\"620\" /\u003E\u003C/span\u003E\u003C/span\u003E \u0026#160;\n\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\n\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());
+		
+		
+			
+		
+			
+				
+				
+				
+		
+		
+	
+
+		
+			
+				
+					अद्वैत मकरन्द
+			
+
+	
+	
+
+भाषाएँ जोड़ें
+	
+	
+
+		
+			
+			
+				
+				
+			
+			भाषापरिसन्धिः योज्यताम्
+		
+
+	
+
+
+				
+					
+						
+							
+								
+
+	
+		
+		
+			पृष्ठम्
+
+चर्चा
+
+
+			
+		
+		
+	
+
+
+								
+
+	
+	संस्कृतम्
+	
+	
+
+
+					
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+				
+	
+
+
+							
+						
+						
+							
+			    
+
+	
+		
+		
+			पठ्यताम्
+
+सम्पाद्यताम्
+
+इतिहासः दृश्यताम्
+
+
+			
+		
+		
+	
+
+
+			
+
+							
+								
+
+	
+	
+
+उपकरणानि
+	
+	
+
+
+									
+						
+
+	
+	उपकरण
+	साइडबार पर ले जाएँ
+	छिपाएँ
+
+
+	
+
+	
+		क्रियाएँ
+	
+	
+		
+		
+			
+
+पठ्यताम्
+
+
+
+सम्पाद्यताम्
+
+
+
+इतिहासः दृश्यताम्
+
+
+			
+		
+		
+	
+
+
+
+	
+		सामान्य
+	
+	
+		
+		
+			
+			अत्र कोऽनुबन्धः?पृष्ठसम्बद्धानि परिवर्तनानिसञ्चिका उपारोप्यताम्स्थायिपरिसन्धिःपृष्ठसूचनाःअस्य पृष्ठस्य उल्लेखः क्रियताम्संक्षिप्त URL प्राप्त करें
+		
+		
+	
+
+
+
+	
+		मुद्रण/निर्यात
+	
+	
+		
+		
+			
+			मुद्रणयोग्यं संस्करणम्Download EPUBDownload MOBIDownload PDFOther formats
+		
+		
+	
+
+
+
+	
+		अन्येषु प्रकल्पेषु
+	
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+
+
+									
+				
+	
+
+
+							
+						
+					
+				
+				
+					
+						
+							
+				
+							
+		
+						
+							
+				
+	
+	दिखावट
+	साइडबार पर ले जाएँ
+	छिपाएँ
+
+
+
+
+
+							
+		
+					
+				
+				
+					
+							
+		डाउनलोड
+		
+
+						विकिस्रोतः तः
+						
+						
+					
+					
+					
+कटाक्षकिरणाचान्त 
+&#160;&#160;&#160;&#160;नमन्मोहाब्धये नमः ।
+अनन्तानन्दकृष्णाय
+&#160;&#160;&#160;&#160;जगन्मङ्गलमूर्तये ॥१॥
+
+अहमस्मि सदा भामि
+&#160;&#160;&#160;&#160;कदाचिन्नाहमप्रियः ।
+ब्रह्मैवाहमतः सिद्धं
+&#160;&#160;&#160;&#160;सच्चिदानन्दलक्षणम् ॥२॥
+
+मय्येवोदेति चिद्व्योम्नि
+&#160;&#160;&#160;&#160;जगद्गन्धर्वपत्तनम् । 
+अतोऽहं न कथं ब्रह्म
+&#160;&#160;&#160;&#160;सर्वज्ञं सर्वकारणम् ॥३॥
+
+न स्वतः प्रत्यभिज्ञानान्
+&#160;&#160;&#160;&#160;निरंशत्वान्न चान्यतः ।
+न चाश्रयविनाशान्मे
+&#160;&#160;&#160;&#160;विनाशः स्यादनाश्रयात् ॥४॥
+
+न शोषप्लोषविक्लेद
+&#160;&#160;&#160;&#160;च्छेदाश्चिन्नभसो मम ।
+सत्यैरप्यनिलाग्न्यम्भः
+&#160;&#160;&#160;&#160;शस्त्रैः किमुत कल्पितैः ॥५॥
+
+अभारुपस्य विश्वस्य
+&#160;&#160;&#160;&#160;भानं भासंनिधेर्विना ।
+कदाचिन्नावकल्पेत
+&#160;&#160;&#160;&#160;भा चाहं तेन सर्वगः ॥६॥
+
+न हि भानादृते सत्वं
+&#160;&#160;&#160;&#160;नर्ते भानं चितोऽचितः । 
+चित्सम्भेदोऽपि नाध्यासात्
+&#160;&#160;&#160;&#160;ऋते तेनाहमद्वयः ॥७॥
+
+न देहो नेन्द्रियं चाहं
+&#160;&#160;&#160;&#160;न प्राणो न मनो न धीः ।
+ममतापरीरब्धत्वात्
+&#160;&#160;&#160;&#160;अक्रीडत्वादिदं धियः ॥८॥
+
+साक्षी सर्वान्वितः प्रेयान्
+&#160;&#160;&#160;&#160;अहं नाहं कदाचन ।
+परिणामपरिच्छेद
+&#160;&#160;&#160;&#160;परितापैरूपप्लवात् ॥९॥
+
+सुप्तेऽहमि न दृश्यन्ते
+&#160;&#160;&#160;&#160;दुःखदोषप्रवृत्तयः ।
+अतस्तस्यैव संसारो
+&#160;&#160;&#160;&#160;न मे संसर्तृसाक्षिणः ॥१०॥
+
+सुप्तः सुप्तिं न जानाति
+&#160;&#160;&#160;&#160;नासुप्ते स्वप्नजागरौ ।
+जाग्रत्स्वप्नसुषुप्तीनां
+&#160;&#160;&#160;&#160;साक्ष्यतोऽहमतदृशः ॥११॥
+
+विज्ञानविरतिः सुप्तिस्
+&#160;&#160;&#160;&#160;तज्जन्म स्वप्नजागरौ ।
+तत्साक्षिणः कथं मे स्युर्
+&#160;&#160;&#160;&#160;नित्यज्ञानस्य ते त्रयः ॥१२॥
+
+षड् विकारवतां वेत्ता
+&#160;&#160;&#160;&#160;निर्विकारोऽहमन्यथा ।
+तद्विकारानुसन्धानं
+&#160;&#160;&#160;&#160;सर्वथा नावकल्पते ॥१३॥
+
+तेन तेन हि रूपेण
+&#160;&#160;&#160;&#160;जायते लीयते मुर्हुः ।
+विकारि वस्तु तस्यैषाम्
+&#160;&#160;&#160;&#160;अनुसन्धातृता कुतः ॥१४॥
+
+न च स्वजन्म नाशं वा
+&#160;&#160;&#160;&#160;द्रष्टुर्हति कश्चन ।
+तौ हि प्रागुत्तराभाव
+&#160;&#160;&#160;&#160;चरमप्रथमक्षणौ ॥१५॥
+
+न प्रकाशेऽहमित्युक्तिर्
+&#160;&#160;&#160;&#160;यत्प्रकाशनिबन्धना ।
+स्वप्रकाशं तमात्मानम्
+&#160;&#160;&#160;&#160;अप्रकाशः कथं स्पृशेत् ॥१६॥
+
+तथाप्याभाति कोऽप्येष
+&#160;&#160;&#160;&#160;विचाराभावजीवनः ।
+अवश्यायश्चिदाकाशे
+&#160;&#160;&#160;&#160;विचारार्कोदयावधिः ॥१७॥
+
+आत्माज्ञानमहानिद्रा
+&#160;&#160;&#160;&#160;जृम्भितेऽस्मिन्जगन्मये ।
+दीर्घस्वप्ने स्फुरन्त्येते
+&#160;&#160;&#160;&#160;स्वर्गमोक्षादिविभ्रमाः ॥१८॥
+
+जडाजडविभागऽयम्
+&#160;&#160;&#160;&#160;अजडे मयि कल्पितः ।
+भित्तिभागे समे चित्र
+&#160;&#160;&#160;&#160;चराचरविभागवत् ॥१९॥
+
+चेत्योपरागरुपा मे
+&#160;&#160;&#160;&#160;साक्षितापि न तात्विकी ।
+उपलक्षणमेवेयं
+&#160;&#160;&#160;&#160;निस्तरङ्गचिदम्बुधेः ॥२०॥
+
+अमृताब्धेर्न मे जीर्णिर्
+&#160;&#160;&#160;&#160;मृषा डिण्डीरजन्मभिः ।
+स्फटिकार्द्रेर्न मे रागः
+&#160;&#160;&#160;&#160;स्वाप्नसंध्याभ्रविभ्रमैः ॥२१॥
+
+स्वरूपमेव मे सत्वं
+&#160;&#160;&#160;&#160;न तु धर्मो नभस्त्ववत् ।
+मदन्यस्य सतोऽभावान्
+&#160;&#160;&#160;&#160;न हि सा जातिरिष्यते ॥२२॥
+
+स्वरूपमेव मे ज्ञानं
+&#160;&#160;&#160;&#160;न गुणः स गुणो यदि ।
+अनात्मत्वमसत्वं वा
+&#160;&#160;&#160;&#160;ज्ञेयाज्ञेयत्वयोः पतेत् ॥२३॥
+
+अहमेव सुखं नान्यद्
+&#160;&#160;&#160;&#160;अन्यच्चेन्नैव तत् सुखम् ।
+अमदर्थं न हि प्रेयो
+&#160;&#160;&#160;&#160;मदर्थं न स्वतः प्रियम् ॥२४॥
+
+न हि नानास्वरूपं स्याद्
+&#160;&#160;&#160;&#160;एकं वस्तु कदाचन ।
+तस्मादखण्ड एवास्मि
+&#160;&#160;&#160;&#160;विजहज्जागतीं भिदाम् ॥२५॥
+
+परोक्षतापरिच्छेद
+&#160;&#160;&#160;&#160;शाबल्यापोहनिर्मलम् ।
+तदसीति गिरा लक्ष्यम्
+&#160;&#160;&#160;&#160;अहमेकरसं महः ॥२६॥
+
+उपशान्तजगज्जीव
+&#160;&#160;&#160;&#160;शिष्याचार्येश्वरभ्रमम् ।
+स्वतः सिद्धमनाद्यन्तं
+&#160;&#160;&#160;&#160;परिपूर्णमहं महः ॥२७॥
+
+लक्ष्मीधरकवेः सुक्ति
+&#160;&#160;&#160;&#160;शरदम्भोजसम्भृतः ।
+अद्वैतमकरन्दोऽयं
+&#160;&#160;&#160;&#160;विद्वद्भृङ्गैर्निपीयताम् ॥२८॥
+
+
+
+
+
+
+
+
+
+"https://sa.wikisource.org/w/index.php?title=अद्वैत_मकरन्द&amp;oldid=399504" इत्यस्माद् प्रतिप्राप्तम्
+					वर्गः: अद्वैतम्
+				
+			
+			
+		
+		
+			
+				
+	 १२ नवेम्बर् २०२३ (तमे) दिनाङ्के ०९:४८ समये अन्तिमपरिवर्तनं  जातम्
+	पाठः क्रियेटिव कॉमन्स ऐट्रिब्यूशन/शेयर-अलाइक अभिज्ञापत्रस्य अन्तर्गततया उपलब्धः अस्ति; अन्याः संस्थित्यः अपि सन्ति ।
+अधिकं ज्ञातुम् अत्र उपयोगस्य संस्थितिं पश्यतु ।
+
+
+				
+	गोपनीयतानीतिः
+	विकिस्रोतः विषयकं
+	प्रत्याख्यानम्
+	कानूनी एवं सुरक्षा संपर्क
+	आचार संहिता
+	विधिकाराः
+	सांख्यिकी
+	कुकी अभिव्यक्ति
+	जङ्गमदूरवाणी-दृश्यम्
+
+
+				
+	
+	
+
+
+			
+		
+	 
+ 
+
+	
+		
+			
+				
+
+शोधः
+			
+		
+			
+		
+			
+				
+					
+						
+							
+								
+								
+							
+							
+						
+						अन्विष्यताम्
+					
+				
+			
+		
+		
+				अद्वैत मकरन्द
+			
+		
+		
+			
+				
+
+
+			
+			
+
+
+			
+			
+
+
+			
+			
+
+
+			
+			
+
+
+			
+			
+
+
+			
+			
+
+
+			
+		
+			
+				
+
+भाषाएँ जोड़ें
+			
+			
+
+विषयः योज्यताम्
+			
+		
+			
+				
+				
+			
+		
+	
+
+
+	
+		
+	
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-68d84f585c-b9mc8","wgBackendResponseTime":109,"wgPageParseReport":{"limitreport":{"cputime":"0.005","walltime":"0.005","ppvisitednodes":{"value":5,"limit":1000000},"revisionsize":{"value":7001,"limit":2097152},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":12502,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"origin":"mw-web.codfw.main-777b767f68-q4zvc","timestamp":"20260905195259","ttl":2592000,"transientcontent":false}}});});
+

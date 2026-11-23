@@ -1,0 +1,6 @@
+{
+  "name": "vedāntatattvaṁ",
+  "description": "An academic platform for Sanskrit OCR correction, precision translation, comparative Vedantic analysis, textual mapping, and multi-script Bharatiya Bhasha Lipi typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
